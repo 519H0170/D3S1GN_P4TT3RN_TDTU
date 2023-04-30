@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bot_nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="TRANG CHỦ" />
+    <item
+        android:id="@+id/bot_nav_like"
+        android:icon="@drawable/ic_like"
+        android:title="YÊU THÍCH" />
+    <item
+        android:id="@+id/bot_nav_offline"
+        android:icon="@drawable/ic_offline"
+        android:title="OFFLINE" />
+    <item
+        android:id="@+id/bot_nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="CÀI ĐẶT" />
+</menu>
